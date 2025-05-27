@@ -6,6 +6,7 @@
 [Tutorial BeeWare](https://docs.beeware.org/en/latest/tutorial/tutorial-0.html)
 
 Passos:
+
 1. `cd .\beeware-tutorial\`
 
 2. `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process (Se necessário)` 
