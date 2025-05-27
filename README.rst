@@ -7,9 +7,13 @@
 
 Passos:
 1. `cd .\beeware-tutorial\`
+
 2. `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process (Se necessário)` 
+
 3. `.\beeware-venv\Scripts\Activate`
+
 4. `cd .\ruapputfprap\`
+
 5. `briefcase dev`
 
 ## Payment and Notification System
